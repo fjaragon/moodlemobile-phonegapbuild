@@ -65721,6 +65721,6 @@ angular.module('mm.core')
     "siteurl": "http://cursos.cetis113.edu.mx",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://cursos.cetis113.edu.mx/politica-de-privacidad/"
+    "privacypolicy": "http://cetis113.edu.mx/politica-de-privacidad/"
 }
 );
