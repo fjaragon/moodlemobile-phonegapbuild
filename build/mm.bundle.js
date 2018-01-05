@@ -71092,12 +71092,11 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-<<<<<<< HEAD
     "app_id" : "mx.itszo.cursos",
     "appname": "ITSZO Cursos Moodle",
     "desktopappname": "Moodle ITSZO",
-    "versioncode" : "2019",
-    "versionname" : "3.3.1",
+    "versioncode" : "2021",
+    "versionname" : "3.4.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "es-mx",
     "languages": {"en": "English", "es": "Español", "es-mx": "Español - México"},
@@ -71106,26 +71105,10 @@ angular.module('mm.core')
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://cursos.itszo.mx",
-=======
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode" : "2021",
-    "versionname" : "3.4.0",
-    "cache_expiration_time" : 300000,
-    "default_lang" : "en",
-    "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "de-du": "Deutsch - Du", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fi": "Suomi", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語", "lt" : "Lietuvių", "mr": "मराठी", "nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sr-cr": "Српски", "sr-lt": "Srpski", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
-    "wsservice" : "moodle_mobile_app",
-    "wsextservice" : "local_mobile",
-    "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
-    "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "multisitesdisplay": "select",
->>>>>>> master
+    "siteurl": "https://cursos.itszo.mx",
+	"multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://itszo.mx/politica-de-privacidad"
+    "privacypolicy": "https://itszo.mx/politica-de-privacidad"
 }
 );

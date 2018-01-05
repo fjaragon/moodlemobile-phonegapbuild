@@ -2,23 +2,15 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
         id        = "mx.itszo.cursos"
-        versionCode = "20190"
-        version   = "3.3.1">
-    <name>ITSZO Cursos Moodle</name>
-=======
-        id        = "com.moodle.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>Moodle Mobile</name>
->>>>>>> master
-
+    <name>ITSZO Cursos Moodle</name>
     <description>
         Aplicacion Moodle oficial para cursos.itszo.mx
     </description>
 
-    <author href="http://itszo.mx" email="apps@itszo.edu.mx">
+    <author href="https://itszo.mx" email="apps@itszo.edu.mx">
         ITSZO
     </author>
 
