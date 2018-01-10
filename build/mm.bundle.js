@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://cursos.itszo.mx",
+    "siteurl": "http://cursos.itszo.mx",
 	"multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
